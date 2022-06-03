@@ -2,7 +2,7 @@ namespace BlazorApp.Data;
 
 public class WeatherForecast
 {
-    public DateTime Date { get; set; }
+    public DateTime Dates { get; set; }
 
     public int TemperatureC { get; set; }
 
